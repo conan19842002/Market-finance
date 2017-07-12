@@ -1,0 +1,475 @@
+[
+    {
+        "raised_fx": {
+            "GBP": 1
+        },
+        "start_time": "2015-01-01",
+        "goal_fx": {
+            "GBP": 1000.0
+        },
+   
+        "end_time": "2015-01-17",
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "a",
+                    "end": 4
+                },
+                {
+                    "start": 14,
+                    "concept": "b",
+                    "end": 45
+                },
+                {
+                    "start": 65,
+                    "concept": "c",
+                    "end": 71
+                },
+                
+                {
+                    "start": 122,
+                    "concept": "h",
+                    "end": 132
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "f",
+                    "end": 5
+                },
+                {
+                    "start": 7,
+                    "concept": "g",
+                    "end": 20
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "i",
+                    "end": 16
+                },
+                {
+                    "start": 19,
+                    "concept": "k",
+                    "end": 41
+                },
+                {
+                    "start": 46,
+                    "concept": "l",
+                    "end": 55
+                }
+            ],
+            "description": [
+                {
+                    "start": 0,
+                    "concept": "a",
+                    "end": 4
+                },
+                {
+                    "start": 14,
+                    "concept": "b",
+                    "end": 45
+                },
+                {
+                    "start": 65,
+                    "concept": "d",
+                    "end": 71
+                },
+                {
+                    "start": 74,
+                    "concept": "g",
+                    "end": 84
+                },
+                {
+                    "start": 87,
+                    "concept": "l",
+                    "end": 92
+                }
+            ]
+        }
+    },
+    {
+        "raised_fx": {
+            "GBP": 2
+        },
+        "start_time": "2015-02-01",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-02-18",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "m",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "n",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "p",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "q",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "n",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "p",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "n",
+                    "end": 34
+                },
+                {
+                    "start": 37,
+                    "concept": "g",
+                    "end": 42
+                },
+                {
+                    "start": 47,
+                    "concept": "k",
+                    "end": 53
+                }
+            ]
+        }
+    },
+	{
+        "raised_fx": {
+            "GBP": 3
+        },
+        "start_time": "2015-01-21",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-03-19",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "a",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "n",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "h",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "k",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "p",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "a",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "b",
+                    "end": 34
+                }
+            ]
+        }
+    },
+	{
+        "raised_fx": {
+            "GBP": 2
+        },
+        "start_time": "2015-03-01",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-03-21",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "i",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "j",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "p",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "q",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "t",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "r",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "n",
+                    "end": 34
+                },
+                {
+                    "start": 37,
+                    "concept": "g",
+                    "end": 42
+                },
+                {
+                    "start": 47,
+                    "concept": "k",
+                    "end": 53
+                }
+            ]
+        }
+    },
+{
+        "raised_fx": {
+            "GBP": 2
+        },
+        "start_time": "2015-04-01",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-04-22",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "c",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "f",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "k",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "k",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "p",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "p",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "d",
+                    "end": 34
+                },
+                {
+                    "start": 47,
+                    "concept": "k",
+                    "end": 53
+                }
+            ]
+        }
+    },
+{
+        "raised_fx": {
+            "GBP": 4
+        },
+        "start_time": "2015-02-10",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-03-24",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "f",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "g",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "h",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "d",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "a",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "c",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "a",
+                    "end": 34
+                },
+                {
+                    "start": 37,
+                    "concept": "b",
+                    "end": 42
+                },
+                {
+                    "start": 47,
+                    "concept": "k",
+                    "end": 53
+                }
+            ]
+        }
+    },
+{
+        "raised_fx": {
+            "GBP": 5
+        },
+        "start_time": "2015-05-01",
+        "goal_fx": {
+            "GBP": 1
+        },
+        "end_time": "2015-05-25",
+ 
+        "concepts": {
+            "subtitle": [
+                {
+                    "start": 0,
+                    "concept": "g",
+                    "end": 10
+                }
+            ],
+            "category": [
+                {
+                    "start": 0,
+                    "concept": "c",
+                    "end": 4
+                },
+                {
+                    "start": 6,
+                    "concept": "l",
+                    "end": 16
+                }
+            ],
+            "title": [
+                {
+                    "start": 0,
+                    "concept": "i",
+                    "end": 5
+                },
+                {
+                    "start": 24,
+                    "concept": "h",
+                    "end": 27
+                }
+            ],
+            "description": [
+                {
+                    "start": 8,
+                    "concept": "p",
+                    "end": 13
+                },
+                {
+                    "start": 31,
+                    "concept": "n",
+                    "end": 34
+                },
+                {
+                    "start": 37,
+                    "concept": "l",
+                    "end": 42
+                },
+                {
+                    "start": 47,
+                    "concept": "q",
+                    "end": 53
+                }
+            ]
+        }
+    }
+]

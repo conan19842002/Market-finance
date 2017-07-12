@@ -278,9 +278,12 @@ def main():
     warnings.filterwarnings("ignore")
     df = getDataFrame('projects.json')
     while True:
-        main_menu()
         global start_i
         global end_i
+        start_i = None
+        end_i = None
+        main_menu()
+        
         start_i = datetime.strptime(start_i,'%Y-%m-%d')
         end_i = datetime.strptime(end_i,'%Y-%m-%d')
         
