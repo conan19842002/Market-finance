@@ -5,7 +5,7 @@ The assignment is organised in following files:
 - market_segment_ranking_testcase.py: This file declares testcases used to test the function that computes trending market segment.
 - time_segment_split_testcase.py: This file declares testcases used to test the function that split a given time period into time segments.
 - functest.py: This file contains functions which are used to test.
-- test1json: default test data, this is used for testing code.
+- test1.json: default test data, this is used for testing code.
 - doc.pdf: Details of solutions.
 
 How to run program:
